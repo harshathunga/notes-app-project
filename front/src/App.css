@@ -1,0 +1,61 @@
+*{
+  background-color: rgb(61, 57, 57);
+  color: antiquewhite;
+  text-decoration: none;
+}
+.container{
+  margin-top: 100px;
+  
+  margin-bottom: 5cm;
+}
+
+#len{
+  float: right;
+ 
+}
+
+.row{
+  justify-content: space-around;
+  margin-top: 50px;
+  margin-left: 2cm;
+
+  display: flex;
+  align-items: center;
+
+}
+
+
+#marg{
+  margin-top: 0.2cm;
+  margin-bottom: 2cm ;
+  
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+}
+
+
+
+.icons{
+  align-items: center;
+  margin-bottom: 0.5cm;
+}
+
+#ul{
+  align-items: center;
+  text-decoration: none;
+
+}
+
+#li{
+  text-decoration: none;
+}
+
+#li :hover{
+  background-color: rgb(246, 255, 0);
+}
+
+.lfa{
+  margin-left: 1cm;
+  margin-top: 1cm;
+}
